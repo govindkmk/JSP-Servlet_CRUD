@@ -1,4 +1,4 @@
-# JSP-Servlet_CRUD
+# JSP_Servlet_CRUD
 
 Developed a Dynamic Web Application that performs Student CRUD using JSP, Servlet and store data in Database.
 
